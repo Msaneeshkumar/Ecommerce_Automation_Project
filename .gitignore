@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+
+# Test reports and screenshots
+test-results/
+playwright-report/
+reports/
+screenshots/
+
+# Initial learning scripts
+first_test.py
+login_practice.py
